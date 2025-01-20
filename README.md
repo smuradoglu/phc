@@ -1,5 +1,4 @@
-# phc
-Building Blocks Project: Phonotactic Corpus Building
+# Building Blocks Project: Phonotactic Corpus Building (Phc)
 
 There are two ways you can utilise this repository. You can either use the interactive dashboard developed via plotly or import the python functions developed to process and analyse your data. 
 
