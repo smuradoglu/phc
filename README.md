@@ -1,6 +1,6 @@
 # Building Blocks Project: Phonotactic Corpus Building (Phc)
 
-There are two ways you can utilise this repository. You can either use the interactive dashboard developed via plotly or import the python functions developed to process and analyse your data. 
+There are two ways you can utilise this repository. You can either use the interactive dashboard developed via plotly or import the python functions developed to process and analyse your data. `test_lexicon.csv' is a dummy lexical line to test the system, each entry is a generated example. 
 
 # Step 1: Preprocessing
 Note that this project was developed from dictionary data (extracted csv files from tools like shoebox/Flex). These files are typically structured as follows (with variation between projects and linguists): 
