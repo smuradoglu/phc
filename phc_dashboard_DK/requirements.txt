@@ -1,0 +1,7 @@
+numpy==1.24.3
+pandas==1.5.3
+dash==2.18.1
+dash_bootstrap_components==1.6.0
+nltk == 3.9.1
+matplotlib==3.3.3
+seaborn==0.11.1
