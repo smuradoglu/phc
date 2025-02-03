@@ -12,6 +12,17 @@ This stage is not required if your data is in a three column format as follows:
 
 # Step 2: Analysis
 
+## Option 1: Run direct from python code (phonotactic_corpora_analysis1.py).
+
+Import python functions directly (environment and versions are listed explicitly in requirements.txt)
+For example:
+
+
+## Option 2: Download and run Juypter Notebook
+
+
+## Option 3: Download and run Docker image & container.
+
 Build VM via docker image. 
 
 Import python functions directly (environment and versions are listed explicitly in requirements.txt)
