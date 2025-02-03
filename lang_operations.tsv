@@ -1,0 +1,29 @@
+Operation	Language	no
+None	Warlpiri	1
+Drop duplicates	Warlpiri	2
+Independent Word	Warlpiri	3
+Reduplication	Warlpiri	4
+Verb compound	Warlpiri	5
+Verbal Morphology	Warlpiri	6
+String removal	Warlpiri	7
+None	Warumungu	1
+Drop duplicates	Warumungu	2
+Independent Word	Warumungu	3
+Reduplication	Warumungu	4
+Verb compound	Warumungu	5
+String removal	Warumungu	6
+None	Kaytetye	1
+Drop duplicates	Kaytetye	2
+Independent Word	Kaytetye	3
+Manual Syllables	Kaytetye	4
+String removal	Kaytetye	4
+None	Pitjantjatjara	1
+Drop duplicates	Pitjantjatjara	2
+Independent Word	Pitjantjatjara	3
+Reduplication	Pitjantjatjara	4
+Verb Segmentation	Pitjantjatjara	5
+Verb compound	Pitjantjatjara	6
+Verbal Morphology	Pitjantjatjara	7
+String removal	Pitjantjatjara	8
+Light Verb	Pitjantjatjara	9
+Drop English Loans	Pitjantjatjara	10
