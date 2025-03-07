@@ -5,9 +5,9 @@ There are two ways you can utilise this repository. You can either use the inter
 # Step 1: Preprocessing
 Note that this project was developed from dictionary data (extracted csv files from tools like shoebox/Flex). These files are typically structured as follows (with variation between projects and linguists): 
 
-To extract relavant fields and transform the data into the required format use <>. 
+To extract relavant fields and transform the data into the required format use <headword,pos,gloss>. 
 
-This stage is not required if your data is in a three column format as follows:
+This stage is not required if your data is in a three column format.
 
 
 # Step 2: Analysis
@@ -18,10 +18,7 @@ Import python functions directly (environment and versions are listed explicitly
 For example:
 
 
-## Option 2: Download and run Juypter Notebook
-
-
-## Option 3: Download and run Docker image & container.
+## Option 2: Download and run Docker image & container.
 
 Build VM via docker image. 
 
